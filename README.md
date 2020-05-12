@@ -9,6 +9,7 @@ I read in book that every one get a lot of ideas in day and in their dreams but 
 
 ___________________________________________
 
-dummy2
+dummy line
 Clone this project and write how you wasted time last weeekend and what you thought of doing but what you endedup doing. And what you want to do in life. Create a file and rasie PR. This is for any people based on your interest. 
+
  
