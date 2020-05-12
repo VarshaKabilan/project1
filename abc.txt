@@ -1,3 +1,2 @@
-Hi, I'm trying to push this file to git hub.
-And trying to see if jenkins will trigger automatically.
+this is some dummy file
 
