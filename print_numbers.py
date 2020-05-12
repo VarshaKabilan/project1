@@ -1,3 +1,3 @@
 for i in range(50, 100):
-	print("diff")
+	print("add")
 	print(i)
